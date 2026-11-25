@@ -136,6 +136,7 @@ Part of [VibeCADing](https://vibecading.io), an open innovation lab for AI-nativ
 - [cadquery](https://github.com/CadQuery/cadquery) (6k stars): Python parametric CAD scripting on OpenCascade
 - [build123d](https://github.com/gumyr/build123d) (3.5k stars): Python CAD library on OpenCascade
 - [IfcOpenShell](https://github.com/IfcOpenShell/IfcOpenShell) (2.9k stars): IFC library and geometry engine; also home of the Bonsai BIM add-on for Blender
+- [archlang](https://github.com/ChanMeng666/archlang) (92 stars): Plain-text floor plans that agents write, compiled to dimensioned SVG, DXF and PDF with checks the agent can read, plus a 3D GLB preview from the same file
 - [cadquery-llm-skill](https://github.com/jmwright/cadquery-llm-skill) (11 stars): Skill that teaches LLMs CadQuery and BRep modelling
 
 ### Image and text to 3D models
